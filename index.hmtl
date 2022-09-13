@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Within this project, my knowledge of different image projections will be displayed </h1>
+<p>To alter the projection of a map in QGIS, I changed the properties to reflect different EPSG values. </p>
+
+<h2> WGS84 Projection </h2>
+<img src="wgs84_hw2.png" alt="Homework 3.1">
+
+<h3> Aitoff Projection </h3>
+<img src="aitoffhw3.png" alt="Homework 3.2">
+
+<h4> Winkel Projection </h4>
+<img src="spherewinkel_hw3.png" alt="Homework 3.3">
+
+<h5> World Cylindrical Equal Area Projection </h5>
+<img src="54034_hw3.png" alt="Homework 3.4">
+
+<h6> World Equidistant Conic Projection </h6>
+<img src="54027_hw3.png" alt="Homework 3.5">
+
+<h7> North Pole Azimuthal Equidistant Projection </h7>
+<img src="102016_hw3.png" alt="Homework 3.6">
+
+<h8> Miller Projection </h8>
+<img src="hw3_cylind.png" alt="Homework 3.7">
+
+<h9> Bonne Projection </h9>
+<img src="bonnehw3.png" alt="Homework 3.8">
+
+<h10> Data Used for This Project </h10>
+
+</body>
+</html>
