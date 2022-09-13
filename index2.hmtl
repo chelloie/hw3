@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Within this project, my knowledge of different image projections will be displayed </h1>
+<p>Describe how I put maps into different projections</p>
+
+<h2> WGS84 Projection </h2>
+<img src="wgs84_hw2.png" alt="Homework 3.1">
+
+<h2> Cylindrical Projection </h2>
+<img src="hw2_cylind.png" alt="Homework 3.1">
+
+
+
+</body>
+</html>
